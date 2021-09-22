@@ -28,6 +28,10 @@ var/
 *.manifest
 *.spec
 
+#virtual env
+blog-env/
+.env 
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
